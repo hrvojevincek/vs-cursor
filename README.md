@@ -22,6 +22,14 @@ Backup of installed VSCode and Cursor extensions.
 ./install-cursor.sh
 ```
 
+## Scan tools
+
+```bash
+./scan-tools.sh
+```
+
+Generates `tools.md` with installed dev tools.
+
 ## Common extensions
 
 - `anthropic.claude-code`
